@@ -10,3 +10,6 @@
 
 ## And a third picture
 <a href="https://cyberphoto.smugmug.com/Nature/Nature-Spring/i-VgPKtxt/A"><img src="https://photos.smugmug.com/Nature/Nature-Spring/i-VgPKtxt/0/e1c7aa3b/XL/P4120095-XL.jpg" alt=""></a>
+
+## and this is the fourth picture
+<a href="https://cyberphoto.smugmug.com/Nature/Nature-Spring/i-qJJFmgZ/A"><img src="https://photos.smugmug.com/Nature/Nature-Spring/i-qJJFmgZ/0/177c7c49/XL/P4120135-XL.jpg" alt=""></a>
