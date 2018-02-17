@@ -1,4 +1,4 @@
-# Welcome to my picture site, testing.
+# Welcome to my picture site.
 <a href="https://cyberphoto.smugmug.com/Nature/Nature-Spring/i-mQPhj4G/A"><img src="https://photos.smugmug.com/Nature/Nature-Spring/i-mQPhj4G/0/47530b20/L/IMG_3505-L.jpg" alt=""></a>
 
 [Link to my webpage][60c0c14b]
