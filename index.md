@@ -9,4 +9,4 @@
 <a href="https://cyberphoto.smugmug.com/Nature/Nature-Spring/i-ThpkhQC/A"><img src="https://photos.smugmug.com/Nature/Nature-Spring/i-ThpkhQC/0/6a36a5cd/XL/P4120064-up-XL.jpg" alt=""></a>
 
 ## And a third picture
-<a href="https://cyberphoto.smugmug.com/Nature/Nature-Spring/i-ThpkhQC/A"><img src="https://photos.smugmug.com/Nature/Nature-Spring/i-ThpkhQC/0/6a36a5cd/XL/P4120064-up-XL.jpg" alt=""></a>
+<a href="https://cyberphoto.smugmug.com/Nature/Nature-Spring/i-VgPKtxt/A"><img src="https://photos.smugmug.com/Nature/Nature-Spring/i-VgPKtxt/0/e1c7aa3b/XL/P4120095-XL.jpg" alt=""></a>
